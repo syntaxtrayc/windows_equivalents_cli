@@ -2,4 +2,4 @@
 ### windows commands
 - which 
   - where
-  - Get-Command command-name
+  - Get-Command <command-name>
