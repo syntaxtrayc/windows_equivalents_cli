@@ -1,2 +1,5 @@
 # windows_equivalents_cli
-windows commands  
+### windows commands
+- which 
+  - where
+  - Get-Command command-name
